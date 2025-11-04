@@ -6,7 +6,7 @@ StellarLabs is a technology studio exploring the intersection of **AI, creativit
 ---
 
 ## 🚀 Current Project
-### [iSO](https://github.com/StellarLabsDev/iSO)
+### [iSO](https://github.com/StellarLabsStudio/iSO)
 An AI and blockchain-powered platform for photographers and creators.  
 - 🔒 Proof of ownership  
 - 🤝 Collaboration tools  
