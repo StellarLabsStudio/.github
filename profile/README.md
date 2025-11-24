@@ -1,7 +1,7 @@
 # StellarLabs
 
 **Building intelligent systems for the modern creator.**  
-StellarLabs is a technology studio exploring the intersection of **AI, creativity, and blockchain** — developing secure and collaborative tools that empower digital innovation.
+StellarLabs is a technology studio exploring the intersection of **AI and creativity** — developing secure and collaborative tools that empower digital innovation.
 
 ---
 
