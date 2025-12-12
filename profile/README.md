@@ -19,5 +19,5 @@ Founded to push the boundaries of creative intelligence, StellarLabs aims to mak
 
 ---
 
-**Contact:** `devmody1268@gmail.com`  
+**Contact:** `stellarlabs2025@gmail.com`  
 > “Empowering creators through intelligent systems.”
